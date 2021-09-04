@@ -1,0 +1,21 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "Dev Theme for Chrome by optinux.github.io",
+  "theme": {
+    "images": {},
+    "properties": {},
+    "colors": {
+      "toolbar": "rgb(28, 32, 40)",
+      "toolbar_text": "rgb(210, 210, 210)",
+      "frame": "rgb(19, 23, 26)",
+      "tab_background_text": "rgb(215, 226, 239)",
+      "toolbar_field": "rgb(39, 42, 51)",
+      "toolbar_field_text": "rgb(210, 210, 210)",
+      "tab_line": "rgb(28, 32, 40)",
+      "popup": "rgb(28, 32, 40)",
+      "popup_text": "rgb(210, 210, 210)",
+      "tab_loading": "rgb(28, 32, 40)"
+    }
+  }
+}
