@@ -1,5 +1,5 @@
 # dev-theme-for-firefox
-A Firefox Extension to compliment Kdr3w's "Dev" Windows Theme
+A Firefox Extension to compliment Kdr3w's "[Dev](https://www.deviantart.com/kdr3w/art/Dev-825722799)" Windows Theme
 
 [Chrome Version](https://github.com/Optinux/dev-theme-for-chrome)
 
