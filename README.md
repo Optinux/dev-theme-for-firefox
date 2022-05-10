@@ -11,3 +11,8 @@ A Firefox Extension to compliment Kdr3w's "[Dev](https://www.deviantart.com/kdr3
 3.) Navigate to Themes > Settings (cogwheel in the top right corner) > Install addon from file...
 
 4.) Now just select the .xpi and load the theme
+
+# Optional
+Ive created a custom DuckDuckGo-Theme to go with this extension!
+
+Just load the following passphrase in the settings: `DEV-THEME-FOR-CHROME` (I know it says Chrome, but it still works!)
